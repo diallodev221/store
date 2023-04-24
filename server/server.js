@@ -45,5 +45,5 @@ app.post("/checkout", async (req, res) => {
 });
 
 app.listen(4242, () => {
-  console.log("App is rnning on port 4242");
+  console.log("App is running on port 4242");
 });
